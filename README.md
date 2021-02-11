@@ -57,3 +57,18 @@ Tem alguma dúvida? Utilize o [canal de issues](https://github.com/nibodev/Front
 **NIBO - Desenvolvimento de alta performance para geeks inquietos**
 
 Boa sorte :D
+
+## How to Play
+
+### Step 1
+Enter into folder backend
+- execute ```npm i```
+- execute ```npm start```
+
+### Step 2
+Enter into folder frontend
+- execute ```npm i```
+- execute ```npm start```
+
+### Step 3
+Go to url: http://localhost:4200
