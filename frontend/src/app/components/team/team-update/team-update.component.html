@@ -1,0 +1,50 @@
+<mat-card>
+    <mat-card-title>Update Team</mat-card-title>
+    <form>
+        <mat-form-field >
+            <input name="name"
+                   matInput 
+                   maxlength="50"
+                   placeholder="Name" 
+                   [(ngModel)]="team.name" 
+                   required>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number"
+                   name="intelligence"
+                   min="1" 
+                   max="99" 
+                   matInput 
+                   placeholder="Intelligence"
+                   [(ngModel)]="team.intelligence" 
+                   required>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number"
+                   name="strength"
+                   min="1" 
+                   max="99" 
+                   matInput 
+                   placeholder="Strength" 
+                   [(ngModel)]="team.strength"
+                   required>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number"
+                   name="agility"
+                   min="1" 
+                   max="99"
+                   matInput 
+                   placeholder="Agility" 
+                   [(ngModel)]="team.agility"
+                   required>
+        </mat-form-field>
+    </form>
+    <button mat-raised-button (click)="updateTeam()" color="primary">
+        Update
+    </button>
+    
+    <button mat-raised-button (click)="cancel()">
+        Cancel
+    </button>
+</mat-card>

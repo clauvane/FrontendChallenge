@@ -1,0 +1,116 @@
+{
+  "teams": [
+    {
+      "name": "Sparta",
+      "intelligence": 95,
+      "strength": 99,
+      "agility": 97,
+      "id": 1
+    },
+    {
+      "name": "Atenas",
+      "intelligence": 99,
+      "strength": 93,
+      "agility": 91,
+      "id": 2
+    },
+    {
+      "name": "Tebas",
+      "intelligence": "76",
+      "strength": "65",
+      "agility": "53",
+      "id": 3
+    },
+    {
+      "name": "Tróia",
+      "intelligence": "88",
+      "strength": "91",
+      "agility": "89",
+      "id": 4
+    },
+    {
+      "name": "Micenas",
+      "intelligence": "58",
+      "strength": "71",
+      "agility": "67",
+      "id": 5
+    },
+    {
+      "name": "Corinto",
+      "intelligence": "48",
+      "strength": "51",
+      "agility": "59",
+      "id": 6
+    },
+    {
+      "name": "Megara",
+      "intelligence": "81",
+      "strength": "77",
+      "agility": "71",
+      "id": 7
+    },
+    {
+      "name": "Argos",
+      "intelligence": "47",
+      "strength": "59",
+      "agility": "35",
+      "id": 8
+    },
+    {
+      "name": "Delfos",
+      "intelligence": "87",
+      "strength": "89",
+      "agility": "91",
+      "id": 9
+    },
+    {
+      "name": "Mileto",
+      "intelligence": "96",
+      "strength": "77",
+      "agility": "70",
+      "id": 12
+    },
+    {
+      "name": "Pérgamo",
+      "intelligence": "69",
+      "strength": "79",
+      "agility": "88",
+      "id": 13
+    },
+    {
+      "name": "Queroneia",
+      "intelligence": "51",
+      "strength": "69",
+      "agility": "63",
+      "id": 14
+    },
+    {
+      "name": "Anfípolis",
+      "intelligence": "88",
+      "strength": "74",
+      "agility": "87",
+      "id": 15
+    },
+    {
+      "name": "Delos",
+      "intelligence": 89,
+      "strength": 72,
+      "agility": 85,
+      "id": 16
+    },
+    {
+      "name": "Quios",
+      "intelligence": 88,
+      "strength": 79,
+      "agility": 79,
+      "id": 17
+    },
+    {
+      "name": "Cnossos",
+      "intelligence": 77,
+      "strength": 71,
+      "agility": 74,
+      "id": 18
+    }
+  ]
+}
